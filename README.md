@@ -1,3 +1,4 @@
+# In Angular, communication between child and parent components can be achieved using @Output and EventEmitter. Let's create a Proof of Concept (PoC) using a simple example where data flows from child to parent components.
 # MyFirstAngularApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.2.
